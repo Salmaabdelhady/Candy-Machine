@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1714237667 source:e:\code block\candymachine\src\dispenser.cpp
+	"Dispenser.h"
+
+1714237667 e:\code block\candymachine\include\dispenser.h
+
+1714237737 source:e:\code block\candymachine\src\cashregister.cpp
+	"cashRegister.h"
+
+1714237890 e:\code block\candymachine\include\cashregister.h
+
+1715973051 source:e:\code block\candymachine\main.cpp
+	<iostream>
+	"cashRegister.h"
+	"Dispenser.h"
+
